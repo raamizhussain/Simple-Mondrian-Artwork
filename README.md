@@ -1,1 +1,2 @@
-# A simple Mondrian Artwork
+# A simple Mondrian Artwork 
+using Grid display elements
