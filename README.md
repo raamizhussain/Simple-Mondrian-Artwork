@@ -1,1 +1,1 @@
-# Simple-Mondrian-Artwork
+# A simple Monrian Artwork
